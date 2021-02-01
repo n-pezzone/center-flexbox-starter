@@ -100,7 +100,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-    background: url(../img/bkgd2.jpg) no-repeat center center fixed;
+    background: url(../img/trees-and-clouds.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
    /* set height to 100% - these are important for allowing content to vertically align */
@@ -130,10 +130,10 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
     font-size: 1.25em;
-    line-height: 1.5em;
+    line-height: 1.75em;
     border-radius: 10px;
     padding: 0px 30px;
-    width: 300px;
+    width: 500px;
     height: 300px;
     display: flex;
     justify-content: center;
